@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<p>这里是又一次修改。</p>
-
+	这里是又一次修改。
 </body>
 </html>
