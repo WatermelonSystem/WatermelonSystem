@@ -118,9 +118,15 @@ if (isChrome) document.body.classList.add('chrome');
 			</a> </header>
 
 			<div class="body">
-				<div id="account-entry" class="container middle secondary">
-					<div class="display-1">
-						<span>点餐，了解一下&nbsp;☕</span>
+				<div class="container middle secondary">
+					<div data-reactroot="">
+						<span><div class="display-1">
+								<span>点餐，了解一下！&nbsp;☕</span>
+							</div>
+							<footer class="account margin2 mobile-hidden">
+							<a class="button small register" href="/"><span><span>登录</span></span></a>
+							<a class="button small register"
+								href=""><span><span>注册</span></span></a></footer></span>
 					</div>
 				</div>
 
